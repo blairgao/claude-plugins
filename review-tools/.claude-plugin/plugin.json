@@ -1,0 +1,6 @@
+{
+  "name": "review-tools",
+  "version": "1.0.0",
+  "description": "Pre-PR review gate: bug hunting, security review, diff reduction, cleanup, end-to-end validation, Linear context and a risk score in REVIEW.md. Plus /review-eval to score the reviewer against real incidents and clean PRs.",
+  "author": { "name": "Blair Gao" }
+}

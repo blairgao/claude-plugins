@@ -1,0 +1,16 @@
+{
+  "name": "blairgao",
+  "owner": {
+    "name": "Blair Gao"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Blair Gao"
+  },
+  "plugins": [
+    {
+      "name": "review-tools",
+      "source": "./review-tools",
+      "description": "Pre-PR review gate (/review) and its eval harness (/review-eval)"
+    }
+  ]
+}
